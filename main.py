@@ -1,1 +1,1 @@
-print("Eremin Egor")
+print('Eremin Egor - dev')
